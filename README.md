@@ -31,7 +31,7 @@ Beyond responding to the prompts, we'd like for you to deliver a presentation of
 - Now that you've had some time to reflect on your Labs experience we want you to build out a slide-deck presentation following the `user experience case study format`. You have all of the information you need from your experience, journal entries, product vision document and release canvases to get this done.
   - Your slide-deck presentation should include the following:
   ```
-  1 slide on the problem tried your team set out to solve.
+  1 slide on the problem that your team set out to solve.
   1 slide on the user research that went into your product vision.
   1 slide on breaking down into releases `Release Canvases`
   1 slide on favorite feature. Include screenshots as necessary.
