@@ -1,6 +1,6 @@
 # Labs-Sprint-Challenge-2.4-Labs-Final-Delivery
 
-This challenge allows you to practice the concepts and techniques learned over the past week and apply them by providing answers to questions related to the Final Delivery of your Labs product.
+This challenge allows you to practice the concepts and techniques learned over your labs experience and apply them by providing answers to questions related to the Final Delivery of your Labs product.
 
 💡This is your final presentation to be delivered for Lambda Labs and the Journal Entries you've written up to this point should drive the content for your 2 min slide-deck video presentation.
 
