@@ -42,7 +42,6 @@ Beyond responding to the prompts, we'd like for you to deliver a presentation of
     - 1 slide of reflection as to what they did differently. This is to be a short retrospective of what you learned during your labs experience
   1 slide on how they tested that feature. Tell us how you made sure that the feature worked correctly and how you know it solves the problem you set out to solve.
   1 slide of reflection as to what they did differently. This is to be a short retrospective what you learned during your labs experience.
-  ```
 - (OPTIONAL) Record a 2 min (max) video going through the information on your slide deck.
 
 ## Submitting your work
