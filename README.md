@@ -17,25 +17,6 @@ We have allocated time on your schedule to ensure that you get this done at the 
 
 ## Introduction
 
-Throughout Labs, you have learned what it takes to be an active contributor to a product team. You have seen a project (whether it be greenfield or build-on) go from an idea (Product Vision) to a set of features that solve a problem (release canvas) to a list of items that need to be completed in order to solve those problems (User Stories/Trello) cards. Along the way, you have crafted a story that outlines your progress throughout your Labs journey.
-
-Now we'd like for you to put together a final presentation of your story. The following prompts will allow you to outline what will go into your presentation and they are required for you to deliver at this time.
-
-Beyond responding to the prompts, we'd like for you to deliver a presentation of your Lambda Labs story in the form of a slide-deck video presentation. The `Labs Journal Entries`
-
-### Prompt 1
-
-- Describe in detail your favorite feature that you built, designed or delivered as a member of your project team. **Please include links to a Figma file, Pull-request, or link to a file in a repository that outlines the work you did on this feature.**
-- Describe the biggest hurdle you overcame technically or from a design perspective. **Be specific in what the problem was and how you overcame it.**
-- Describe in detail the biggest 'inter-personal' conflict you overcame as a member of your project team. **Be specific but please don't mention any team members by name.**
-- Now that you've had some time to reflect on your Labs experience we want you to build out a slide-deck presentation following the `user experience case study format`. You have all of the information you need from your experience, journal entries, product vision document and release canvases to get this done.
-  - Your slide-deck presentation should include the following:
-  ```
-  1 slide on the problem that your team set out to solve.
-  1 slide on the user research that went into your product vision.
-  1 slide on breaking down into releases `Release Canvases`
-  1 slide on favorite feature. Include screenshots as necessary.### Introduction
-
 Throughout Labs, you have learned what it takes to be an active contributor to a product team. You have seen a project (whether it be greenfield or build-on) go from an idea (Product Vision) to a set of features that solve a problem (Release Canvases) to a list of items that need to be completed in order to solve those problems (User Stories/Trello) cards. Along the way, you have **crafted a story** that outlines your progress throughout your Labs journey by responding to prompts in *journal entry* format. 
 
 Now we'd like for you to put together a final presentation of your story. The following prompts will allow you to outline what will go into your presentation and they are required for you to deliver at this time. 
