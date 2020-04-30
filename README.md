@@ -17,19 +17,21 @@ We have allocated time on your schedule to ensure that you get this done at the 
 
 ## Introduction
 
-Throughout Labs, you have learned what it takes to be an active contributor to a product team. You have seen a project (whether it be greenfield or build-on) go from an idea (Product Vision) to a set of features that solve a problem (Release Canvases) to a list of items that need to be completed in order to solve those problems (User Stories/Trello) cards. Along the way, you have **crafted a story** that outlines your progress throughout your Labs journey by responding to prompts in *journal entry* format. 
+Throughout Labs, you have learned what it takes to be an active contributor to a product team. You have helped a project (whether it be greenfield or build-on) go from an idea (Product Vision) to a set of features that solve a problem (Release Canvases) to a list of items that need to be completed in order to solve those problems (User Stories/Trello) cards. Along the way, you have **crafted a story** that outlines your progress throughout your Labs journey by responding to prompts in *journal entry* format. 
 
-Now we'd like for you to put together a final presentation of your story. The following prompts will allow you to outline what will go into your presentation and they are required for you to deliver at this time. 
+Now we'd like for you to put together a final presentation of your story. The following prompts will help you create an outline for your presentation content.
 
-Beyond responding to the prompts, we'd like for you to deliver a presentation of your Lambda Labs story in the form of a slide-deck video presentation* (Optional). The `Labs Journal Entries`
+After completing the prompts, you may choose to also deliver a presentation of your Lambda Labs story in the form of a slide-deck video presentation.
 
 ### Prompt 1
 
 **Required**
 
-- Describe in detail your favorite feature that you built, designed or delivered as a member of your project team. **Please include links to a Figma file, Pull-request, or link to a file in a repository that outlines the work you did on this feature.**
+- Describe in detail the favorite feature that you built, designed or delivered as a member of your project team. **Please include links to a Figma file, pull-requests or link to a file in a repository that outlines the work you did on this feature.**
 - Describe the biggest hurdle you overcame technically or from a design perspective. **Be specific in what the problem was and how you overcame it.**
 - Describe in detail the biggest 'inter-personal' conflict you overcame as a member of your project team. **Be specific but please don't mention any team members by name.**
+
+### Slide Deck
 
 **Optional**
 
@@ -42,7 +44,7 @@ Beyond responding to the prompts, we'd like for you to deliver a presentation of
     - 1 slide of reflection as to what they did differently. This is to be a short retrospective of what you learned during your labs experience
   1 slide on how they tested that feature. Tell us how you made sure that the feature worked correctly and how you know it solves the problem you set out to solve.
   1 slide of reflection as to what they did differently. This is to be a short retrospective what you learned during your labs experience.
-- (OPTIONAL) Record a 2 min (max) video going through the information on your slide deck.
+- Record a 2 min (max) video delivering your slide deck as a presentation.
 
 ## Submitting your work
 
