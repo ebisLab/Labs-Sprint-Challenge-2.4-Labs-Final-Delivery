@@ -1,3 +1,4 @@
+# May 1, 2020 - Final Delivery
 # Labs-Sprint-Challenge-2.4-Labs-Final-Delivery
 
 This challenge allows you to practice the concepts and techniques learned over your labs experience and apply them by providing answers to questions related to the Final Delivery of your Labs product.
@@ -27,9 +28,17 @@ After completing the prompts, you may choose to also deliver a presentation of y
 
 **Required**
 
-- Describe in detail the favorite feature that you built, designed or delivered as a member of your project team. **Please include links to a Figma file, pull-requests or link to a file in a repository that outlines the work you did on this feature.**
+- Describe in detail the favorite feature that you built, designed or delivered as a member of your project team. **Please include links to a Figma file, pull-requests or link to a file in a repository that outlines the work you did on this feature.
+
+My favorite part of the project was when we implemented the table rows and columns layout to render our data from the backend. I guess it's because I'm so visual that I got excited at the thought of how everything we built in prisma and apollo came to merge beautifully with our new graph ql skill in the front end. And because of that we got ambitious, and proceeded to start release canvas 3, which was the data visualization part. 
+
 - Describe the biggest hurdle you overcame technically or from a design perspective. **Be specific in what the problem was and how you overcame it.**
+
+We had to figured out how ANTD design and React Hook Form can coexist, so we made the choice to do away with react hook forms and go the regular route that we were used to when we were in the web unit. It actually worked better for us since we were spending alot of time debugging code that one package library cancelled out the other. 
+
 - Describe in detail the biggest 'inter-personal' conflict you overcame as a member of your project team. **Be specific but please don't mention any team members by name.**
+
+When I came onto this project I was struggling to see how my skills would fit in. I've always been used to being the lone wolf to various projects, even during build weeks, I was either one of two people in a team that specialized in that team at that time, front end, backend. But seeing that there were so many of us that had fullstack experience at this point, it was hard to find where I could contribute daily since everyone have been fast in snatching up those tasks. When looking at our daily tasks on Trello, we realized that every task dependended on other tasks chosen by the other team members, so we had to rely on alot of peer programming to make sure we werent over stepping on each other's work. Also, I struggled communicating with my team when they would refactor my portion of the operations they assigned me to do. I worked slowly at my own pace, others work at a faster pace, and when the were done, they would jump on my part of the file and work on it, refactoring things, and not letting me know that they were doing it, so it got a bit chaotic for a bit. Doing more zoom calls to clarify what everybody was doing eased the tensions and made it easier for us to trust each other to allow us to not interfere on other people's work. 
 
 ### Slide Deck
 
