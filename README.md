@@ -32,7 +32,7 @@ After completing the prompts, you may choose to also deliver a presentation of y
 
 My favorite part of the project was when we implemented the table rows and columns layout to render our data from the backend. I guess it's because I'm so visual that I got excited at the thought of how everything we built in prisma and apollo came to merge beautifully with our new graph ql skill in the front end. And because of that we got ambitious, and proceeded to start release canvas 3, which was the data visualization part. 
 
-<img width="300px" alt="trelloimage" src ="https://github.com/ebisLab/Labs-Sprint-Challenge-2.4-Labs-Final-Delivery/blob/master/Screen%20Shot%202020-05-01%20at%2011.23.52%20AM.png?raw=true"
+<img width="300px" alt="trelloimage" src ="https://github.com/ebisLab/Labs-Sprint-Challenge-2.4-Labs-Final-Delivery/blob/master/Screen%20Shot%202020-05-01%20at%2011.23.52%20AM.png?raw=true" >
 
 - Describe the biggest hurdle you overcame technically or from a design perspective. **Be specific in what the problem was and how you overcame it.**
 
